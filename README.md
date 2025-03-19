@@ -1,4 +1,4 @@
-# 汇总所知道的 ChatGPT 镜像站GPT-o1、GPT-o3、Deepseek、Grok3（国内正常网络下就能访问）【25年3月18日更新】
+# 汇总所知道的 ChatGPT 镜像站GPT-o1、GPT-o3、Deepseek、Grok3（国内正常网络下就能访问）【25年3月20日更新】
 
 > 更新时间：2025年3月18日
 
@@ -10,7 +10,7 @@ ChatGPT 镜像网站（ChatGPT Mirror）是指通过复制 OpenAI 官方网站�
 
 ## 🌐 国内 ChatGPT 免费中文版镜像网站
 
-[https://songshugpt.com](https://songshugpt.com) - ChatGPT 中文版，已运营近2年，提供 GPT-4、GPT-3.5、GPT-3、GPT-o1、GPT-o3、Deepseek、Grok3支持，兼具 AI 绘画功能。无需注册，扫码即可使用，非常方便！
+[https://songshugpt.com](https://songshugpt.com) - ChatGPT 中文版，已运营近2年，提供**GPT-4、GPT-3.5、GPT-3、GPT-o1、GPT-o3、Deepseek、Grok3支持**，兼具 AI 绘画功能。无需注册，扫码即可使用，非常方便！
 
 [https://gptdog.net](https://gptdog.net)- 提供 ChatGPT 4 免费在线使用，优化了国内用户的访问体验，支持中文输入和响应，且永久免费使用。
 
