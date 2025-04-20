@@ -56,17 +56,6 @@
             padding-left: 1.5rem;
         }
 
-        h2::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0.4em;
-            height: 1.2em;
-            width: 4px;
-            background: var(--primary-color);
-            border-radius: 2px;
-        }
-
         .button {
             display: inline-flex;
             align-items: center;
@@ -129,16 +118,6 @@
 
         tr:hover td {
             background: rgba(255,255,255,0.03);
-        }
-
-        .arrow-down {
-            width: 48px;
-            height: 48px;
-            border-radius: 50%;
-            background: var(--card-bg);
-            display: grid;
-            place-items: center;
-            animation: float 3s ease-in-out infinite;
         }
 
         @keyframes float {
